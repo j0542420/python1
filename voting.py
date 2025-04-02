@@ -1,5 +1,4 @@
 def displayResults():
-        for x in votings.keys():
         #calculating the sum of voting
         sum=0
         for y in votings.keys():
